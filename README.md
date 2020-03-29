@@ -96,4 +96,4 @@ All my libraries are open source and free. Your donations will contribute to mak
 
 [USB Wikipedia Page](https://en.wikipedia.org/wiki/USB) - as above
 
-Jax Axelson's [USB Page](http://janaxelson.com/usb.htm) - General C# USB Programming
+Jan Axelson's [USB Page](http://janaxelson.com/usb.htm) - General C# USB Programming
